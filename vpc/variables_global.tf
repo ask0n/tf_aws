@@ -1,1 +1,1 @@
-../../../variables_global/variables_global_aws.tf
+../variables_global_aws.tf
