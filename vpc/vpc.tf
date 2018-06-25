@@ -7,7 +7,7 @@ data "template_file" "demo" {
 EOF
 
   vars {
-    module_variable = "DEMO-2"
+    module_variable = "DEMO-2321"
     input_variable = "${var.input_variable}"
     global_input_variable = "${var.global_input_variable}"
   }
